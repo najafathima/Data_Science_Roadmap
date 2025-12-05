@@ -13,6 +13,7 @@ This repository contains structured, beginner-friendly notes that cover the esse
 It is designed as a clean reference guide for learners, students, and anyone revising core concepts.
 
 📂 Topics Covered
+
 1️⃣ Python Libraries for Data Analysis
 NumPy
 
@@ -41,6 +42,7 @@ Distribution plots, scatter plots, boxplots
 Heatmaps, pairplots, and styling
 
 🆕 Newly Added Modules
+
 2️⃣ Statistics Basics
 
 Measures of central tendency
@@ -109,11 +111,4 @@ Help beginners understand “why” each step matters
 
 Serve as a reference for projects and interviews
 
-🤝 Contributions
 
-Suggestions, improvements, or corrections are welcome.
-Feel free to open an issue or submit a pull request.
-
-⭐ Support
-
-If this repository helps you, please consider giving it a star to support the work.
