@@ -1,7 +1,6 @@
 ![Banner](./dsBanner.jpeg)
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Data Science](https://img.shields.io/badge/Data%20Science-Roadmap-brightgreen)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Included-orange)
 ![NLP](https://img.shields.io/badge/NLP-Included-yellow)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Included-red)
