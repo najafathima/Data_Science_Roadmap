@@ -8,15 +8,13 @@
   <img src="https://img.shields.io/badge/Deep%20Learning-Included-orange" alt="Deep Learning" />
 </p>
 
-# 📊 Data Science Roadmap
-
 A structured, end-to-end **Data Science learning roadmap** covering **Data Analysis, Machine Learning, Natural Language Processing, and Deep Learning**, designed for beginners to intermediate learners who aim to build **strong fundamentals with practical depth**.
 
 This repository follows a **week-wise and topic-wise progression**, starting from core Python and data analysis, advancing through classical machine learning, and extending into NLP and deep learning concepts.
 
 ---
 
-## 🚀 What This Repository Covers
+##  What This Repository Covers
 
 ### 1️⃣ Data Analysis Foundations
 Build a strong base in data handling, visualization, and statistics.
